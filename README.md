@@ -7,4 +7,7 @@ This work introduces 'ProposedMetric,' a new measurement designed to evaluate ho
 For testing Proposed metric on 1221 questions from CommonsenceQA dataset with text perturbations two generative models from Python transformers library were used: facebook/bart-large-mnli and , nli-deberta-v3-small.
 
 ![orthographic_noise.png](Data/Experiment_05-06/orthographic_noise.png)
+![semantic_noise.png](Data/Experiment_05-06/semantic_noise.png)
+
+
 
